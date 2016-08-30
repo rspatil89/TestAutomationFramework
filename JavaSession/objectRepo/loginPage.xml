@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<elements>
+    <element name="username" locatorType="xpath" locatorValue="//input[@name='Email']"/>
+    <element name="nextButton" locatorType="xpath" locatorValue="//input[@value='Next']"/>
+    <element name="password" locatorType="xpath" locatorValue="//input[@name='Passwd']"/>
+    <element name="signIn" locatorType="xpath" locatorValue="//input[@value='Sign in']"/>
+    <element name="options" locatorType="xpath" locatorValue="//a[@role='button']//span"/>
+    <element name="signOut" locatorType="xpath" locatorValue="//a[text()='Sign out']"/>
+</elements>
